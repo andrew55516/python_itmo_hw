@@ -1,0 +1,11 @@
+python3 task3/main.py task3/test.txt task3/test2.txt
+ 15  14 161 task3/test.txt
+ 16  14 163 task3/test2.txt
+ 31  28 324 total
+
+python3 task3/main.py
+asdfdsaf
+asdfadsf
+   sdfasdf
+        dfgdfg
+ 4  4 44

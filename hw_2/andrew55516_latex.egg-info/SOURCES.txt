@@ -1,0 +1,7 @@
+setup.py
+andrew55516_latex/__init__.py
+andrew55516_latex/latex.py
+andrew55516_latex.egg-info/PKG-INFO
+andrew55516_latex.egg-info/SOURCES.txt
+andrew55516_latex.egg-info/dependency_links.txt
+andrew55516_latex.egg-info/top_level.txt

@@ -1,0 +1,45 @@
+python3 task2/main.py
+fsdaf
+sadfsadf
+sadf    sdf     fsdf
+fsdaf
+sadfsadf
+sadf    sdf     fsdf
+
+
+python3 task2/main.py task2/test.txt
+fgdhfgdh
+
+
+sdafadsf
+   fsdfasf
+      dsfsdfsdf
+         gsdfgsdfsd
+            sfsfsadfs
+sdfsdf sdf
+fsaf
+
+
+python3 task2/main.py task2/test.txt task2/test2.txt
+==> task2/test.txt <==
+fgdhfgdh
+
+
+sdafadsf
+   fsdfasf
+      dsfsdfsdf
+         gsdfgsdfsd
+            sfsfsadfs
+sdfsdf sdf
+fsaf
+==> task2/test2.txt <==
+fgdhfgdh
+
+
+sdafadsf
+   fsdfasf
+      dsfsdfsdf
+         gsdfgsdfsd
+            sfsfsadfs
+sdfsdf sdf
+fsaf

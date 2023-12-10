@@ -1,0 +1,29 @@
+python3 task1/main.py
+sadf
+1       sadf
+asdf
+2       asdf
+fdsa
+3       fdsa
+adfs
+4       adfs
+fadsf
+5       fadsf
+fasdf
+6       fasdf
+fsadfsadf
+7       fsadfsadf
+
+
+python3 task1/main.py task1/test.txt
+1       dsfdsf
+2       gdfgdfg
+3       cxvbxvcb
+4       ewrwett
+5
+6       dfghfdgh
+7       fgdhfgdh
+8
+9
+10      sdafadsf
+11         fsdfasf
